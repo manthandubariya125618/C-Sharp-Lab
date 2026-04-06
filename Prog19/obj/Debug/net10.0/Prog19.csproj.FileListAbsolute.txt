@@ -1,0 +1,15 @@
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\bin\Debug\net10.0\Prog19.exe
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\bin\Debug\net10.0\Prog19.deps.json
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\bin\Debug\net10.0\Prog19.runtimeconfig.json
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\bin\Debug\net10.0\Prog19.dll
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\bin\Debug\net10.0\Prog19.pdb
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\obj\Debug\net10.0\Prog19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\obj\Debug\net10.0\Prog19.AssemblyInfoInputs.cache
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\obj\Debug\net10.0\Prog19.AssemblyInfo.cs
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\obj\Debug\net10.0\Prog19.csproj.CoreCompileInputs.cache
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\obj\Debug\net10.0\Prog19.sourcelink.json
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\obj\Debug\net10.0\Prog19.dll
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\obj\Debug\net10.0\refint\Prog19.dll
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\obj\Debug\net10.0\Prog19.pdb
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\obj\Debug\net10.0\Prog19.genruntimeconfig.cache
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit3\Prog19\obj\Debug\net10.0\ref\Prog19.dll
