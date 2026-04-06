@@ -1,0 +1,15 @@
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\bin\Debug\net10.0\Prog04.exe
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\bin\Debug\net10.0\Prog04.deps.json
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\bin\Debug\net10.0\Prog04.runtimeconfig.json
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\bin\Debug\net10.0\Prog04.dll
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\bin\Debug\net10.0\Prog04.pdb
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\obj\Debug\net10.0\Prog04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\obj\Debug\net10.0\Prog04.AssemblyInfoInputs.cache
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\obj\Debug\net10.0\Prog04.AssemblyInfo.cs
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\obj\Debug\net10.0\Prog04.csproj.CoreCompileInputs.cache
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\obj\Debug\net10.0\Prog04.sourcelink.json
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\obj\Debug\net10.0\Prog04.dll
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\obj\Debug\net10.0\refint\Prog04.dll
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\obj\Debug\net10.0\Prog04.pdb
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\obj\Debug\net10.0\Prog04.genruntimeconfig.cache
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit4\Prog04\obj\Debug\net10.0\ref\Prog04.dll
